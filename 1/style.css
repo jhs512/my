@@ -147,5 +147,5 @@ body {
 }
 
 .box-1 > .bottom-bar > .cell:first-child > a {
-    color:red;
+    color:blue;
 }
