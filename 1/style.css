@@ -145,3 +145,7 @@ body {
     font-size:3rem;
     padding:1rem 0;
 }
+
+.box-1 > .bottom-bar > .cell:first-child > a {
+    color:red;
+}
